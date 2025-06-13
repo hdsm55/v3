@@ -1,7 +1,7 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import { useTranslation } from 'react-i18next';
-import { motion } from 'framer-motion';
+import React, { useState } from 'react'
+import { Link } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
+import { motion } from 'framer-motion'
 import {
   Facebook,
   Twitter,
@@ -14,30 +14,30 @@ import {
   Heart,
   ExternalLink,
   ArrowUp,
-} from 'lucide-react';
-import { cn } from '../../utils/cn';
+} from 'lucide-react'
+import { cn } from '../../utils/cn'
 
 export interface FooterProps {
   /**
    * Additional class name
    */
-  className?: string;
+  className?: string
 }
 
 /**
  * Footer component with navigation, contact info, and newsletter signup
  */
 export const Footer: React.FC<FooterProps> = ({ className }) => {
-  const { t, i18n } = useTranslation();
-  const [email, setEmail] = useState('');
-  
+  const { t, i18n } = useTranslation()
+  const [email, setEmail] = useState('')
+
   // Scroll to top function
   const scrollToTop = () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
 
   // Get current year
-  const currentYear = new Date().getFullYear();
+  const currentYear = new Date().getFullYear()
 
   // Main links
   const mainLinks = [
@@ -47,7 +47,7 @@ export const Footer: React.FC<FooterProps> = ({ className }) => {
     { to: '/events', label: t('footer.events') },
     { to: '/blog', label: t('footer.blog') },
     { to: '/reports', label: t('footer.reports') },
-  ];
+  ]
 
   // Support links
   const supportLinks = [
@@ -57,14 +57,14 @@ export const Footer: React.FC<FooterProps> = ({ className }) => {
     { to: '/join', label: t('footer.join') },
     { to: '/donate', label: t('footer.donate') },
     { to: '/partners', label: t('footer.partners') },
-  ];
+  ]
 
   // Legal links
   const legalLinks = [
     { to: '/privacy', label: t('footer.privacy') },
     { to: '/terms', label: t('footer.terms') },
     { to: '/press', label: t('footer.press') },
-  ];
+  ]
 
   // Social links
   const socialLinks = [
@@ -98,22 +98,24 @@ export const Footer: React.FC<FooterProps> = ({ className }) => {
       label: 'YouTube',
       color: 'hover:text-red-500',
     },
-  ];
+  ]
 
   // Handle newsletter subscription
   const handleSubscribe = (e: React.FormEvent) => {
-    e.preventDefault();
+    e.preventDefault()
     // Implementation would go here
-    console.log('Subscribing email:', email);
-    setEmail('');
+    console.log('Subscribing email:', email)
+    setEmail('')
     // Show success message or notification
-  };
+  }
 
   return (
-    <footer className={cn(
-      'section bg-gradient-to-br from-midnight via-cetacean to-black text-white overflow-hidden',
-      className
-    )}>
+    <footer
+      className={cn(
+        'section bg-gradient-to-br from-midnight via-cetacean to-black text-white overflow-hidden',
+        className
+      )}
+    >
       <div className="container mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 lg:gap-12">
           {/* Brand Section */}
@@ -160,7 +162,18 @@ export const Footer: React.FC<FooterProps> = ({ className }) => {
               </div>
               <div className="flex items-center gap-3 text-white/70">
                 <MapPin className="w-5 h-5 text-accent" aria-hidden="true" />
-                <span className="font-almarai">{t('contact.info.address.details')}</span>
+                <span className="font-almarai">
+                  {t('contact.info.address.details')}
+                </span>
+              </div>
+              <div className="flex items-center gap-3 text-white/70">
+                <Link
+                  to="/admin"
+                  className="text-white/70 hover:text-white transition-colors font-almarai flex items-center gap-2"
+                >
+                  <span>{t('navbar.admin')}</span>
+                  <ExternalLink className="w-4 h-4" />
+                </Link>
               </div>
             </div>
           </motion.div>
@@ -183,7 +196,10 @@ export const Footer: React.FC<FooterProps> = ({ className }) => {
                     className="text-white/70 hover:text-white transition-colors duration-300 flex items-center gap-2 group font-almarai"
                   >
                     <span>{link.label}</span>
-                    <ExternalLink className="w-3 h-3 opacity-0 group-hover:opacity-100 transition-opacity" aria-hidden="true" />
+                    <ExternalLink
+                      className="w-3 h-3 opacity-0 group-hover:opacity-100 transition-opacity"
+                      aria-hidden="true"
+                    />
                   </Link>
                 </li>
               ))}
@@ -208,7 +224,10 @@ export const Footer: React.FC<FooterProps> = ({ className }) => {
                     className="text-white/70 hover:text-white transition-colors duration-300 flex items-center gap-2 group font-almarai"
                   >
                     <span>{link.label}</span>
-                    <ExternalLink className="w-3 h-3 opacity-0 group-hover:opacity-100 transition-opacity" aria-hidden="true" />
+                    <ExternalLink
+                      className="w-3 h-3 opacity-0 group-hover:opacity-100 transition-opacity"
+                      aria-hidden="true"
+                    />
                   </Link>
                 </li>
               ))}
@@ -243,7 +262,7 @@ export const Footer: React.FC<FooterProps> = ({ className }) => {
                   aria-label={t('newsletter.placeholder')}
                   required
                 />
-                <button 
+                <button
                   type="submit"
                   className="bg-accent hover:bg-accent-hover text-white px-4 py-2 rounded-lg transition-colors flex-shrink-0"
                   aria-label={t('newsletter.button')}
@@ -299,7 +318,10 @@ export const Footer: React.FC<FooterProps> = ({ className }) => {
               <span className="text-sm font-almarai">
                 © {currentYear} GlobalYouth. {t('footer.copy')}
               </span>
-              <Heart className="w-4 h-4 text-red-400 animate-pulse" aria-hidden="true" />
+              <Heart
+                className="w-4 h-4 text-red-400 animate-pulse"
+                aria-hidden="true"
+              />
             </motion.div>
 
             {/* Legal Links */}
@@ -352,8 +374,8 @@ export const Footer: React.FC<FooterProps> = ({ className }) => {
       </div>
 
       {/* Scroll to Top Button */}
-      <motion.button 
-        onClick={scrollToTop} 
+      <motion.button
+        onClick={scrollToTop}
         className="fixed bottom-6 right-6 p-3 bg-accent text-white rounded-full shadow-lg hover:bg-accent-hover transition-colors"
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
@@ -362,7 +384,7 @@ export const Footer: React.FC<FooterProps> = ({ className }) => {
         <ArrowUp className="w-5 h-5" aria-hidden="true" />
       </motion.button>
     </footer>
-  );
-};
+  )
+}
 
-export default Footer;
+export default Footer

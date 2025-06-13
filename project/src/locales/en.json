@@ -1,0 +1,66 @@
+{
+  "projects": {
+    "learnMore": "Learn More",
+    "heading": "Our Projects",
+    "subheading": "Discover our diverse projects aimed at community development",
+    "title": "Project Title",
+    "description": "Project Description",
+    "category": "Category",
+    "status": "Status",
+    "image": "Project Image",
+    "addNew": "Add New Project",
+    "addDescription": "Add a new project to the platform",
+    "titleAr": "Title in Arabic",
+    "titleEn": "Title in English",
+    "titleTr": "Title in Turkish",
+    "descriptionAr": "Description in Arabic",
+    "descriptionEn": "Description in English",
+    "descriptionTr": "Description in Turkish",
+    "selectCategory": "Select Category",
+    "categories": {
+      "education": "Education",
+      "health": "Health",
+      "environment": "Environment",
+      "technology": "Technology"
+    },
+    "statuses": {
+      "draft": "Draft",
+      "published": "Published"
+    },
+    "addSuccess": "Project added successfully"
+  },
+  "cta": {
+    "buttons": {
+      "contact": "Contact Us",
+      "projects": "Our Projects",
+      "join": "Join Us",
+      "donate": "Donate Now",
+      "learn": "Learn More"
+    },
+    "headline": "Join Our Mission",
+    "subheadline": "Be part of positive change",
+    "button": "Get Involved"
+  },
+  "footer": {
+    "about": "About Us",
+    "whoWeAre": "Who We Are",
+    "contact": "Contact Us",
+    "join": "Join Us",
+    "projects": "Projects",
+    "events": "Events",
+    "blog": "Blog",
+    "reports": "Reports",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "press": "Press",
+    "partners": "Partners",
+    "donate": "Donate",
+    "volunteer": "Volunteer",
+    "faq": "FAQ"
+  },
+  "common": {
+    "error": "An error occurred",
+    "saving": "Saving...",
+    "save": "Save"
+  }
+}

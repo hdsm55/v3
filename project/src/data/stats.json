@@ -1,0 +1,28 @@
+{
+  "stats": [
+    {
+      "value": 10000,
+      "label": {
+        "en": "Volunteers",
+        "ar": "متطوع",
+        "tr": "Gönüllü"
+      }
+    },
+    {
+      "value": 250,
+      "label": {
+        "en": "Projects",
+        "ar": "مشروع",
+        "tr": "Proje"
+      }
+    },
+    {
+      "value": 45,
+      "label": {
+        "en": "Countries",
+        "ar": "دولة",
+        "tr": "Ülke"
+      }
+    }
+  ]
+}

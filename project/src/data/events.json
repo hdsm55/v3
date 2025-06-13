@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "id": "yls-2024",
+      "date": "2024-03-15",
+      "title": {
+        "en": "Youth Leadership Summit",
+        "ar": "قمة القيادة الشبابية",
+        "tr": "Gençlik Liderlik Zirvesi"
+      },
+      "description": {
+        "en": "Annual gathering of youth leaders from across the globe to share experiences and build networks.",
+        "ar": "التجمع السنوي لقادة الشباب من جميع أنحاء العالم لتبادل الخبرات وبناء الشبكات.",
+        "tr": "Deneyimleri paylaşmak ve ağlar kurmak için dünyanın dört bir yanından gençlik liderlerinin yıllık buluşması."
+      },
+      "location": "Dubai, UAE",
+      "type": "conference"
+    },
+    {
+      "id": "tech-workshop-2024",
+      "date": "2024-04-05",
+      "title": {
+        "en": "Digital Skills Workshop",
+        "ar": "ورشة عمل المهارات الرقمية",
+        "tr": "Dijital Beceriler Atölyesi"
+      },
+      "description": {
+        "en": "Hands-on workshop focusing on essential digital skills for the modern workplace.",
+        "ar": "ورشة عمل عملية تركز على المهارات الرقمية الأساسية لمكان العمل الحديث.",
+        "tr": "Modern işyeri için temel dijital becerilere odaklanan uygulamalı atölye."
+      },
+      "location": "Online",
+      "type": "workshop"
+    },
+    {
+      "id": "env-day-2024",
+      "date": "2024-06-05",
+      "title": {
+        "en": "World Environment Day Campaign",
+        "ar": "حملة يوم البيئة العالمي",
+        "tr": "Dünya Çevre Günü Kampanyası"
+      },
+      "description": {
+        "en": "Youth-led environmental awareness campaign with local community clean-up activities.",
+        "ar": "حملة توعية بيئية يقودها الشباب مع أنشطة تنظيف المجتمع المحلي.",
+        "tr": "Yerel topluluk temizlik faaliyetleriyle gençlik öncülüğünde çevre bilinci kampanyası."
+      },
+      "location": "Multiple Locations",
+      "type": "campaign"
+    },
+    {
+      "id": "startup-2024",
+      "date": "2024-07-20",
+      "title": {
+        "en": "Youth Startup Weekend",
+        "ar": "عطلة نهاية الأسبوع للشركات الناشئة للشباب",
+        "tr": "Genç Girişimcilik Haftasonu"
+      },
+      "description": {
+        "en": "48-hour entrepreneurship event where young innovators build and pitch their startup ideas.",
+        "ar": "حدث ريادة الأعمال لمدة 48 ساعة حيث يقوم المبتكرون الشباب ببناء وعرض أفكار شركاتهم الناشئة.",
+        "tr": "Genç yenilikçilerin startup fikirlerini geliştirip sundukları 48 saatlik girişimcilik etkinliği."
+      },
+      "location": "Istanbul, Turkey",
+      "type": "hackathon"
+    },
+    {
+      "id": "culture-fest-2024",
+      "date": "2024-09-15",
+      "title": {
+        "en": "Global Youth Culture Festival",
+        "ar": "مهرجان الثقافة الشبابية العالمي",
+        "tr": "Küresel Gençlik Kültür Festivali"
+      },
+      "description": {
+        "en": "Celebration of youth cultures through art, music, dance, and traditional performances.",
+        "ar": "احتفال بثقافات الشباب من خلال الفن والموسيقى والرقص والعروض التقليدية.",
+        "tr": "Sanat, müzik, dans ve geleneksel gösteriler aracılığıyla gençlik kültürlerinin kutlanması."
+      },
+      "location": "Berlin, Germany",
+      "type": "festival"
+    }
+  ]
+}

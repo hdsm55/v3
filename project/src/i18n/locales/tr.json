@@ -1,0 +1,759 @@
+{
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "retry": "Tekrar dene",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "view": "Görüntüle",
+    "back": "Geri",
+    "next": "İleri",
+    "previous": "Önceki",
+    "submit": "Gönder",
+    "success": "Başarılı!",
+    "followUs": "Bizi Takip Edin",
+    "back_to_top": "Yukarı çık",
+    "learnMore": "Daha Fazla Bilgi"
+  },
+  "navbar": {
+    "home": "Ana Sayfa",
+    "programs": "Programlar",
+    "projects": "Projeler",
+    "events": "Etkinlikler",
+    "volunteer": "Gönüllü Ol",
+    "contact": "İletişim",
+    "login": "Giriş",
+    "logout": "Çıkış",
+    "profile": "Profil",
+    "admin": "Yönetici Paneli",
+    "lang_ar": "العربية",
+    "lang_en": "English",
+    "lang_tr": "Türkçe",
+    "select_language": "Dil seçin",
+    "close_menu": "Menüyü kapat",
+    "open_menu": "Menüyü aç",
+    "mobile_menu": "Mobil menü",
+    "logoAlt": "Küresel Gençlik Organizasyonu Logosu",
+    "main_navigation": "Ana navigasyon"
+  },
+  "hero": {
+    "title": "Dünya Çapında Gençleri Güçlendiriyoruz",
+    "subtitle": "Kültürler arası köprüler kuruyor, liderliği teşvik ediyor ve olumlu değişim yaratıyoruz",
+    "button": "Bize Katılın",
+    "organization": "Küresel Gençlik Organizasyonu",
+    "watchVideo": "Videoyu İzle",
+    "scrollDown": "Aşağı Kaydır",
+    "learnMore": "Daha Fazla Bilgi"
+  },
+  "footer": {
+    "about": "Hakkımızda",
+    "programs": "Programlar",
+    "projects": "Projeler",
+    "events": "Etkinlikler",
+    "blog": "Blog",
+    "reports": "Raporlar",
+    "contact": "İletişim",
+    "faq": "SSS",
+    "volunteer": "Gönüllü Ol",
+    "join": "Bize Katılın",
+    "donate": "Bağış Yap",
+    "partners": "Ortaklar",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "press": "Basın",
+    "about_us": "Hakkımızda",
+    "get_involved": "Katılın",
+    "copy": "Tüm hakları saklıdır.",
+    "whoWeAre": "Biz Kimiz"
+  },
+  "cta": {
+    "headline": "Misyonumuza Katılın",
+    "subheadline": "Olumlu değişimin bir parçası olun",
+    "button": "Katılın",
+    "buttons": {
+      "join": "Bize Katılın",
+      "contact": "Bize Ulaşın",
+      "donate": "Şimdi Bağış Yap",
+      "learn": "Daha Fazla Bilgi",
+      "projects": "Projelerimiz"
+    },
+    "title": "Topluluğumuza Katılın",
+    "subtitle": "Olumlu değişimin bir parçası olun",
+    "joinButton": "Bize Katılın",
+    "contactButton": "Bize Ulaşın"
+  },
+  "values": {
+    "heading": "Temel Değerlerimiz",
+    "subheading": "Yaptığımız her şeye rehberlik eden ilkeler",
+    "compassion": {
+      "title": "Şefkat",
+      "description": "Güçlü insan ilişkileri kurmada empati ve anlayışın önemine inanıyoruz."
+    },
+    "sustainability": {
+      "title": "Sürdürülebilirlik",
+      "description": "Kaynaklarımızı gelecek nesiller için koruyan sürdürülebilir çözümler geliştirmeye kararlıyız."
+    },
+    "excellence": {
+      "title": "Mükemmellik",
+      "description": "Tüm çalışmalarımızda ve girişimlerimizde her zaman mükemmelliği hedefliyoruz."
+    },
+    "community": {
+      "title": "Topluluk",
+      "description": "Karşılıklı saygı ve destek temelinde güçlü ve bağlantılı topluluklar inşa ediyoruz."
+    },
+    "title": "Değerlerimiz",
+    "subtitle": "Değerlerimiz, çalışmalarımızı ve ilişkilerimizi yönlendiren temeldir",
+    "leadership": {
+      "title": "Liderlik",
+      "description": "Gençlik liderliğinin gücüne ve değişim yaratma yeteneğine inanıyoruz"
+    },
+    "integrity": {
+      "title": "Dürüstlük",
+      "description": "Yaptığımız her şeyde en yüksek dürüstlük ve şeffaflık standartlarına bağlıyız"
+    },
+    "global": {
+      "title": "Küresel Etki",
+      "description": "Dünya genelindeki gençler arasında iletişim köprüleri kurmak için çalışıyoruz"
+    },
+    "description": "Temel değerlerimiz yaptığımız her şeye rehberlik eder",
+    "diversity": {
+      "title": "Çeşitlilik ve Kapsayıcılık",
+      "description": "Kültürel ve entelektüel çeşitliliği kucaklıyor ve güçlü, uyumlu bir topluluk oluşturmada farklılığın gücüne inanıyoruz."
+    },
+    "impact": {
+      "title": "Olumlu Etki",
+      "description": "Dünya genelindeki gençlerin ve toplulukların hayatında olumlu ve sürdürülebilir bir etki yaratmaya çalışıyoruz."
+    },
+    "innovation": {
+      "title": "Yenilikçilik ve Yaratıcılık",
+      "description": "Çağdaş zorluklara yenilikçi çözümler bulmak için yenilikçiliği ve yaratıcı düşünmeyi teşvik ediyoruz."
+    },
+    "cta": "Vizyonumuz hakkında bilgi edinin"
+  },
+  "programs": {
+    "heading": "Programlarımız",
+    "subheading": "Gerçek etki yaratan öne çıkan programlarımızı keşfedin",
+    "title": "Programlar",
+    "subtitle": "Dünya çapında gençleri güçlendiren girişimlerimizi keşfedin",
+    "viewAll": "Tüm Programları Görüntüle",
+    "learnMore": "Daha Fazla Bilgi",
+    "view_details": "Detayları Görüntüle",
+    "no_results": "Program bulunamadı",
+    "try_different": "Farklı arama kriterleri veya filtreler deneyin",
+    "clear_filters": "Filtreleri Temizle",
+    "search": "Programlarda ara...",
+    "filter_category": "Kategoriye göre filtrele",
+    "filter_status": "Duruma göre filtrele",
+    "progress": "İlerleme",
+    "leadership": {
+      "title": "Gençlik Liderliği",
+      "description": "Mentorluk ve uygulamalı deneyim yoluyla gelecek nesil toplum liderlerini geliştirme"
+    },
+    "education": {
+      "title": "Eğitime Erişim",
+      "description": "Dezavantajlı topluluklara eğitim kaynakları ve fırsatları sağlama"
+    },
+    "community": {
+      "title": "Topluluk İnşası",
+      "description": "Gençlik öncülüğündeki girişimler ve projeler aracılığıyla yerel toplulukları güçlendirme"
+    },
+    "categories": {
+      "all": "Tüm Kategoriler",
+      "education": "Eğitim",
+      "health": "Sağlık",
+      "environment": "Çevre",
+      "community": "Topluluk"
+    },
+    "statuses": {
+      "all": "Tüm Durumlar",
+      "active": "Aktif",
+      "completed": "Tamamlandı",
+      "upcoming": "Yaklaşan"
+    }
+  },
+  "projects": {
+    "heading": "Projelerimiz",
+    "subheading": "Topluluklarda fark yaratan girişimlerimizi keşfedin",
+    "title": "Projeler",
+    "subtitle": "Çeşitli girişimlerimizi ve etkilerini keşfedin",
+    "viewAll": "Tüm Projeleri Görüntüle",
+    "learnMore": "Daha Fazla Bilgi",
+    "view_details": "Detayları Görüntüle",
+    "no_results": "Proje bulunamadı",
+    "try_different": "Farklı arama kriterleri veya filtreler deneyin",
+    "clear": "Filtreleri Sıfırla",
+    "search_placeholder": "Projelerde ara...",
+    "category": "Kategori",
+    "status": "Durum",
+    "categories": {
+      "all": "Tüm Kategoriler",
+      "education": "Eğitim",
+      "health": "Sağlık",
+      "environment": "Çevre",
+      "technology": "Teknoloji",
+      "community": "Topluluk"
+    },
+    "statuses": {
+      "all": "Tüm Durumlar",
+      "active": "Aktif",
+      "completed": "Tamamlandı",
+      "planning": "Planlama"
+    },
+    "featured": "Öne Çıkan Projelerimiz",
+    "filter": "Filtrele",
+    "description": "Toplum gelişimine yönelik çeşitli projelerimizi keşfedin",
+    "addNew": "Yeni Proje Ekle",
+    "addDescription": "Platforma yeni bir proje ekleyin",
+    "titleAr": "Arapça Başlık",
+    "titleEn": "İngilizce Başlık",
+    "titleTr": "Türkçe Başlık",
+    "descriptionAr": "Arapça Açıklama",
+    "descriptionEn": "İngilizce Açıklama",
+    "descriptionTr": "Türkçe Açıklama",
+    "selectCategory": "Kategori Seçin",
+    "image": "Proje Görseli",
+    "addSuccess": "Proje başarıyla eklendi"
+  },
+  "events": {
+    "title": "Etkinlikler",
+    "subtitle": "Küresel etkinliklerimize katılın ve fark yaratın",
+    "register": "Şimdi Kaydol",
+    "free": "Ücretsiz",
+    "participants": "katılımcı",
+    "days_remaining": "gün kaldı",
+    "search": "Etkinliklerde ara...",
+    "grid": "Izgara Görünümü",
+    "calendar": "Takvim Görünümü",
+    "clear_filters": "Filtreleri Temizle",
+    "no_results": "Etkinlik bulunamadı",
+    "try_different": "Farklı arama kriterleri veya filtreler deneyin",
+    "calendar_title": "Yaklaşan Etkinlikler Takvimi",
+    "calendar_subtitle": "Yaklaşan etkinliklerimize katılımınızı planlayın",
+    "featured": "Öne Çıkan",
+    "register_for": "Kaydol:",
+    "form": {
+      "name": "Tam Ad",
+      "name_placeholder": "Tam adınızı girin",
+      "email": "E-posta Adresi",
+      "email_placeholder": "your@email.com",
+      "phone": "Telefon Numarası",
+      "phone_placeholder": "+1 (123) 456-7890",
+      "experience": "Bu Alandaki Deneyiminiz",
+      "experience_placeholder": "İlgili deneyiminiz hakkında bize bilgi verin...",
+      "motivation": "Neden katılmak istiyorsunuz?",
+      "motivation_placeholder": "Bu etkinliğe katılmak için sizi ne motive ediyor?"
+    },
+    "submitting": "Gönderiliyor...",
+    "confirm_registration": "Kaydı Onayla",
+    "registration_fee": "Kayıt Ücreti",
+    "payment_note": "Ödeme etkinlikte alınacaktır",
+    "registration_success": "Kayıt Başarılı",
+    "registration_success_title": "Kaydınız Alındı!",
+    "registration_success_message": "Kaydolduğunuz için teşekkürler. Tüm detayları içeren bir onay e-postası gönderdik.",
+    "categories": {
+      "all": "Tüm Kategoriler",
+      "workshop": "Atölye",
+      "conference": "Konferans",
+      "seminar": "Seminer",
+      "training": "Eğitim",
+      "social": "Sosyal"
+    },
+    "heading": "Yaklaşan Etkinlikler",
+    "upcoming_title": "Yaklaşan Etkinlikler",
+    "upcoming_subtitle": "Yaklaşan etkinliklerimizi keşfedin.",
+    "view_all": "Tüm Etkinlikleri Görüntüle",
+    "never_miss": "Hiçbir Etkinliği Kaçırmayın",
+    "calendar_description": "Tüm yaklaşan etkinliklerimizden haberdar olmak ve otomatik hatırlatıcılar almak için etkinlik takvimine abone olun.",
+    "subscribe_calendar": "Takvime Abone Ol",
+    "back_to_events": "Etkinliklere Dön",
+    "back": "Geri",
+    "fee": "Kayıt ücreti",
+    "currency": "TL",
+    "fill_form": "Kaydolmak için aşağıdaki bilgileri doldurun",
+    "full_name": "Tam Ad",
+    "email": "E-posta Adresi",
+    "phone": "Telefon Numarası",
+    "experience": "Bu Alandaki Deneyiminiz",
+    "motivation": "Neden katılmak istiyorsunuz?",
+    "inspiring": "İlham verici ve etkili etkinlikler",
+    "join_community": "Etkileşimli ve etkili etkinliklerde yaratıcı gençlerin küresel topluluğuna katılın",
+    "filter_by_category": "Kategoriye göre filtrele"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Sizden haber almaktan mutluluk duyarız",
+    "description": "Herhangi bir soru veya işbirliği fırsatı için bizimle iletişime geçin",
+    "info": {
+      "title": "İletişim Bilgileri",
+      "phone": "Telefon",
+      "email": "E-posta",
+      "address": "Adres",
+      "address.details": "Ana Cadde, Şehir, Ülke",
+      "hours": "Çalışma Saatleri",
+      "hours.details": "Cumartesi - Perşembe: 09:00 - 17:00"
+    },
+    "hours": {
+      "title": "Çalışma Saatleri",
+      "weekdays": "Pazartesi - Cuma",
+      "saturday": "Cumartesi",
+      "sunday": "Pazar",
+      "closed": "Kapalı"
+    },
+    "form": {
+      "title": "Bize Mesaj Gönderin",
+      "name": "İsim",
+      "namePlaceholder": "Tam adınız",
+      "email": "E-posta",
+      "emailPlaceholder": "your@email.com",
+      "subject": "Konu",
+      "message": "Mesaj",
+      "messagePlaceholder": "Mesajınız...",
+      "submit": "Mesaj Gönder",
+      "sending": "Gönderiliyor...",
+      "success": {
+        "title": "Mesaj Gönderildi!",
+        "message": "Bizimle iletişime geçtiğiniz için teşekkürler. En kısa sürede size geri döneceğiz."
+      },
+      "errors": {
+        "name": "İsim gereklidir",
+        "email": "E-posta gereklidir",
+        "emailInvalid": "E-posta geçersiz",
+        "content": "Mesaj gereklidir",
+        "general": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+      }
+    },
+    "map": {
+      "title": "Konumumuz"
+    }
+  },
+  "volunteer": {
+    "title": "Bizimle Gönüllü Olun",
+    "description": "Küresel gönüllü topluluğumuza katılın ve fark yaratın",
+    "subtitle": "Küresel olarak fark yaratan tutkulu gönüllüler topluluğumuza katılın",
+    "form": {
+      "title": "Gönüllü Başvurusu",
+      "name": "Tam Ad",
+      "name_placeholder": "Tam adınızı girin",
+      "email": "E-posta",
+      "email_placeholder": "your@email.com",
+      "phone": "Telefon Numarası",
+      "phone_placeholder": "+1 (123) 456-7890",
+      "interests": "İlgi Alanları",
+      "availability": "Uygunluk",
+      "select_availability": "Uygunluk seçin",
+      "weekdays": "Hafta içi",
+      "weekends": "Hafta sonu",
+      "flexible": "Esnek",
+      "experience": "İlgili Deneyim",
+      "experience_placeholder": "İlgili deneyiminiz hakkında bize bilgi verin...",
+      "message": "Neden gönüllü olmak istiyorsunuz?",
+      "message_placeholder": "Bizimle neden gönüllü olmak istediğinizi bize anlatın...",
+      "resume": "Özgeçmiş (İsteğe bağlı)",
+      "resume_placeholder": "Özgeçmişinizi yüklemek için tıklayın",
+      "resume_help": "5MB'a kadar PDF, DOC veya DOCX dosyası",
+      "submit": "Başvuru Gönder",
+      "submitting": "Gönderiliyor..."
+    },
+    "opportunities": {
+      "title": "Gönüllülük Fırsatları",
+      "community": "Toplum Hizmeti",
+      "community_desc": "Yerel topluluk hizmet projelerini organize etmeye ve katılmaya yardımcı olun",
+      "mentorship": "Mentorluk",
+      "mentorship_desc": "Gençleri kişisel ve profesyonel gelişimlerinde yönlendirin ve destekleyin",
+      "global": "Küresel Girişimler",
+      "global_desc": "Uluslararası gençlik güçlendirme programlarına katkıda bulunun",
+      "flexible": "Esnek"
+    },
+    "requirements": {
+      "title": "Gereksinimler",
+      "age": "18 yaş veya üzeri olmalı",
+      "commitment": "En az 3 aylık taahhüt",
+      "language": "İngilizce yeterliliği",
+      "training": "Gerekli eğitim oturumlarına katılım"
+    },
+    "contact": {
+      "title": "İletişim Bilgileri"
+    },
+    "note": "Tüm gönüllü başvuruları 5-7 iş günü içinde incelenir. Bir sonraki adımları görüşmek için sizinle iletişime geçeceğiz.",
+    "success": {
+      "title": "Başvuru Gönderildi!",
+      "message": "Bizimle gönüllü olmak istediğiniz için teşekkür ederiz. Başvurunuzu inceleyecek ve en kısa sürede sizinle iletişime geçeceğiz."
+    },
+    "errors": {
+      "name": "İsim gereklidir",
+      "email": "E-posta gereklidir",
+      "emailInvalid": "E-posta geçersiz",
+      "phone": "Telefon numarası gereklidir",
+      "interests": "Lütfen en az bir ilgi alanı seçin",
+      "availability": "Lütfen uygunluğunuzu seçin",
+      "message": "Lütfen neden gönüllü olmak istediğinizi belirtin",
+      "general": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+    },
+    "commitment": "Zaman Taahhüdü"
+  },
+  "donate": {
+    "title": "Misyonumuzu Destekleyin",
+    "subtitle": "Katkınız gençleri dünya çapında güçlendirmeye yardımcı oluyor",
+    "description": "Gençleri güçlendirme girişimlerimizi destekleyerek fark yaratın",
+    "select_amount": "Miktar Seçin",
+    "custom_amount": "Özel Miktar",
+    "enter_amount": "Miktar girin",
+    "frequency": "Bağış Sıklığı",
+    "one_time": "Bir kerelik",
+    "monthly": "Aylık",
+    "submit": "Şimdi Bağış Yap",
+    "processing": "İşleniyor...",
+    "secure_payment": "Stripe ile güvenli ödeme",
+    "tax_deductible": "Tüm bağışlar yasaların izin verdiği ölçüde vergiden düşülebilir.",
+    "form": {
+      "title": "Bağış Yap",
+      "name": "Tam Ad",
+      "name_placeholder": "Tam adınızı girin",
+      "email": "E-posta Adresi",
+      "email_placeholder": "your@email.com",
+      "message": "Mesaj (İsteğe bağlı)",
+      "message_placeholder": "Neden davamızı desteklediğinizi bize anlatın..."
+    },
+    "success": {
+      "title": "Bağışınız için Teşekkürler!",
+      "message": "Katkınız, dünya çapında gençleri güçlendirme misyonumuza devam etmemize yardımcı olacak."
+    },
+    "errors": {
+      "amount": "Lütfen geçerli bir miktar seçin veya girin",
+      "name": "İsim gereklidir",
+      "email": "E-posta gereklidir",
+      "emailInvalid": "E-posta geçersiz",
+      "general": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+    },
+    "impact": {
+      "title": "Etkiniz",
+      "education": {
+        "title": "Eğitim",
+        "description": "Dezavantajlı gençler için eğitim programlarını ve atölyeleri destekleyin"
+      },
+      "mentorship": {
+        "title": "Mentorluk",
+        "description": "Genç liderlere mentorluk fırsatları sağlanmasına yardımcı olun"
+      },
+      "resources": {
+        "title": "Kaynaklar",
+        "description": "Gençlik gelişimi için temel kaynakları ve araçları finanse edin"
+      }
+    },
+    "transparency": {
+      "title": "Şeffaflık",
+      "description": "Bağışlarınızı nasıl kullandığımız konusunda şeffaflığa bağlıyız. Bağışçılarımıza düzenli raporlar ve güncellemeler sağlanmaktadır.",
+      "thank_you": "Desteğiniz için teşekkür ederiz!"
+    }
+  },
+  "join": {
+    "heading": "Misyonumuza Katılın",
+    "subheading": "Daha büyük bir şeyin parçası olun",
+    "button": "Katılın",
+    "badge": "Küresel ailemize katılın",
+    "title": "Bize Katılın",
+    "description": "Yaratıcı ve etkili gençlerin küresel topluluğumuza katılın",
+    "form": {
+      "title": "Üyelik Formu",
+      "subtitle": "Sizinle bağlantı kurabilmemiz için kendiniz hakkında bilgi verin",
+      "name": "Tam Ad",
+      "namePlaceholder": "Tam adınızı girin",
+      "email": "E-posta Adresi",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Telefon Numarası",
+      "phonePlaceholder": "+90 XXX XXX XXXX",
+      "motivation": "Neden katılmak istiyorsunuz?",
+      "motivationPlaceholder": "Küresel gençlik organizasyonumuza katılma hikayenizi ve motivasyonunuzu paylaşın...",
+      "submit": "Şimdi Katıl",
+      "submitting": "Gönderiliyor...",
+      "errors": {
+        "name": "Ad gereklidir",
+        "email": "E-posta gereklidir",
+        "emailInvalid": "E-posta geçersiz",
+        "emailExists": "Bu e-posta zaten kayıtlı",
+        "motivation": "Lütfen neden katılmak istediğinizi belirtin",
+        "general": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+      }
+    },
+    "benefits": {
+      "title": "Üye olarak elde edeceğiniz faydalar:",
+      "item1": "Çeşitli ve etkili gönüllülük fırsatları",
+      "item2": "Ücretsiz eğitim kursları ve atölyeler",
+      "item3": "Küresel gençlik bağlantıları ağı",
+      "item4": "Sertifikalı gönüllülük belgeleri"
+    },
+    "success": {
+      "title": "Hoş Geldiniz!",
+      "message": "Başvurunuz başarıyla gönderildi. Katılım sürecini tamamlamak için yakında sizinle iletişime geçeceğiz.",
+      "redirect": "3 saniye içinde ana sayfaya yönlendirileceksiniz..."
+    }
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "Gençleri güçlendirmek ve daha iyi bir gelecek inşa etmek için çalışan öncü bir gençlik kuruluşuyuz",
+    "description": "Gençleri güçlendirme konusundaki misyonumuz, tarihimiz ve etkimiz hakkında bilgi edinin",
+    "hero": {
+      "title": "Gençleri Küresel Olarak Güçlendirme",
+      "subtitle": "Kültürler arasında köprüler kurmak, liderliği teşvik etmek ve olumlu değişim yaratmak",
+      "cta_primary": "Misyonumuza Katılın",
+      "cta_secondary": "Daha Fazla Bilgi"
+    },
+    "cta": {
+      "title": "Misyonumuza Katılın",
+      "description": "Daha büyük bir şeyin parçası olun. Birlikte kalıcı bir değişim yaratabiliriz.",
+      "volunteer": "Bizimle Gönüllü Olun",
+      "donate": "Bağış Yapın"
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "description": "Gençleri eğitim, liderlik gelişimi ve küresel bağlantılar yoluyla güçlendirmeye adanmış durumdayız",
+      "empower": {
+        "title": "Güçlendirme",
+        "description": "Gençlere lider ve değişim yaratıcıları olmaları için araçlar ve fırsatlar sağlıyoruz."
+      },
+      "connect": {
+        "title": "Bağlantı",
+        "description": "Küresel işbirlikçi bir topluluk oluşturmak için farklı kültürlerden gençleri bir araya getiriyoruz."
+      },
+      "innovate": {
+        "title": "Yenilik",
+        "description": "Zorluklara yeni çözümler bulmak için yaratıcılığı ve yeniliği teşvik ediyoruz."
+      }
+    },
+    "timeline": {
+      "title": "Yolculuğumuz",
+      "description": "Organizasyonumuzun tarihindeki önemli dönüm noktaları"
+    },
+    "stats": {
+      "title": "Etkimiz",
+      "description": "Hikayemizi anlatan sayılar"
+    },
+    "values": {
+      "title": "Değerlerimiz",
+      "subtitle": "Değerlerimiz, çalışmalarımızı ve ilişkilerimizi yönlendiren temeldir",
+      "leadership": {
+        "title": "Liderlik",
+        "description": "Gençlik liderliğinin gücüne ve değişim yaratma yeteneğine inanıyoruz"
+      },
+      "integrity": {
+        "title": "Dürüstlük",
+        "description": "Yaptığımız her şeyde en yüksek dürüstlük ve şeffaflık standartlarına bağlıyız"
+      },
+      "global": {
+        "title": "Küresel Etki",
+        "description": "Dünya genelindeki gençler arasında iletişim köprüleri kurmak için çalışıyoruz"
+      }
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "description": "Zorluklarla yüzleşebilen ve herkes için daha iyi bir geleceğe doğru değişime öncülük edebilen güçlü ve uyumlu bir gençlik topluluğu oluşturmayı hedefliyoruz."
+    },
+    "impact": {
+      "title": "Etkimiz",
+      "subtitle": "Gençler ve topluluklar üzerindeki olumlu etkimizle gurur duyuyoruz",
+      "volunteers": "Gönüllüler",
+      "countries": "Ülkeler",
+      "projects": "Projeler",
+      "beneficiaries": "Faydalananlar"
+    },
+    "team": {
+      "title": "Ekibimiz",
+      "description": "Misyonumuzun arkasındaki özverili bireyleri tanıyın",
+      "role1": "Yönetici Direktör",
+      "role2": "Program Direktörü",
+      "role3": "Topluluk Etki Lideri",
+      "bio1": "Gençleri güçlendirme ve toplum gelişimi konusunda tutkulu.",
+      "bio2": "Hayatları dönüştüren yenilikçi programlar oluşturmaya adanmış.",
+      "bio3": "Farklı topluluklar arasında köprüler kurmaya kararlı."
+    }
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Organizasyonumuz hakkında yaygın sorulara cevaplar",
+    "search_placeholder": "Sorularda ara...",
+    "no_results": "Kriterlerinize uyan soru bulunamadı",
+    "reset_search": "Aramayı Sıfırla",
+    "still_have_questions": "Hala sorularınız var mı?",
+    "contact_description": "Aradığınız cevabı bulamıyor musunuz? Lütfen destek ekibimizle iletişime geçin.",
+    "contact_us": "Bize Ulaşın",
+    "view_all": "Tüm SSS'leri Görüntüle",
+    "faq1": {
+      "question": "Küresel Gençlik Organizasyonu nedir?",
+      "answer": "Küresel Gençlik Organizasyonu, dünya çapında eğitim, liderlik gelişimi ve toplum katılımı programları aracılığıyla gençleri güçlendirmeye adanmış kar amacı gütmeyen bir kuruluştur."
+    },
+    "faq2": {
+      "question": "Nasıl katılabilirim?",
+      "answer": "Gönüllü olarak, etkinliklerimize katılarak, programlarımızı desteklemek için bağış yaparak veya liderlik girişimlerimize başvurarak katılabilirsiniz."
+    }
+  },
+  "newsletter": {
+    "heading": "Bültenimize Abone Olun",
+    "subheading": "En son güncellemeleri ve kaynakları alın",
+    "placeholder": "E-posta adresinizi girin",
+    "button": "Abone Ol",
+    "errorInvalid": "Lütfen geçerli bir e-posta adresi girin.",
+    "success": "Abone olduğunuz için teşekkürler!",
+    "privacy": "Gizliliğinize saygı duyuyoruz ve asla spam göndermeyeceğiz."
+  },
+  "partners": {
+    "title": "Ortaklarımız",
+    "subtitle": "Küresel etki yaratmak için önde gelen kuruluşlarla çalışıyoruz",
+    "countries": "Ülkeler",
+    "projects": "Ortak Projeler",
+    "view_projects": "Projeleri Görüntüle",
+    "become_partner": "Ortak Olun",
+    "become_partner_desc": "Gençleri güçlendirmeye kendini adamış kuruluşların küresel ağımıza katılın",
+    "contact_us": "Bize Ulaşın"
+  },
+  "login": {
+    "title": "Giriş",
+    "description": "Kontrol paneline erişim",
+    "email": "E-posta",
+    "password": "Şifre",
+    "submit": "Giriş Yap",
+    "credentials": "Giriş bilgileri:",
+    "back": "Ana Sayfaya Dön",
+    "hidePassword": "Şifreyi gizle",
+    "showPassword": "Şifreyi göster"
+  },
+  "project": {
+    "not_found": "Proje bulunamadı",
+    "back_to_projects": "Projelere Dön",
+    "back": "Geri",
+    "about": "Proje Hakkında",
+    "volunteers": "Gönüllüler",
+    "countries": "Ülkeler",
+    "beneficiaries": "Faydalananlar",
+    "join": "Bize Katılın",
+    "learn_more": "Daha Fazla Bilgi",
+    "gallery": "Galeri",
+    "team": "Ekip",
+    "share": "Projeyi Paylaş",
+    "related": "İlgili Projeler",
+    "link_copied": "Bağlantı panoya kopyalandı!"
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Kontrol Paneli",
+      "welcome": "Yönetici paneline hoş geldiniz",
+      "totalUsers": "Toplam Kullanıcılar",
+      "activeProjects": "Aktif Projeler",
+      "events": "Etkinlikler",
+      "pendingRegistrations": "Bekleyen Kayıtlar",
+      "visitorStats": "Ziyaretçi İstatistikleri",
+      "projectCategories": "Proje Kategorileri",
+      "visitors": "Ziyaretçiler",
+      "projects": "Projeler",
+      "recentUsers": "Son Kullanıcılar",
+      "upcomingEvents": "Yaklaşan Etkinlikler"
+    },
+    "users": {
+      "management": "Kullanıcı Yönetimi",
+      "description": "Kullanıcı hesaplarını görüntüleyin ve yönetin",
+      "search": "Kullanıcı ara",
+      "filters": {
+        "allStatuses": "Tüm Durumlar",
+        "allRoles": "Tüm Roller"
+      },
+      "name": "İsim",
+      "email": "E-posta",
+      "role": "Rol",
+      "status": "Durum",
+      "actions": "İşlemler",
+      "roles": {
+        "admin": "Yönetici",
+        "user": "Kullanıcı"
+      },
+      "statuses": {
+        "active": "Aktif",
+        "inactive": "Pasif",
+        "pending": "Beklemede"
+      },
+      "statusUpdated": "Kullanıcı durumu güncellendi",
+      "deleted": "Kullanıcı silindi",
+      "confirmDelete": "Bu kullanıcıyı silmek istediğinizden emin misiniz?"
+    },
+    "members": {
+      "title": "Üye Yönetimi",
+      "description": "Üyelik başvurularını ve mevcut üyeleri görüntüleyin ve yönetin",
+      "list": "Üye Listesi",
+      "searchPlaceholder": "İsim veya e-posta ile ara...",
+      "allStatuses": "Tüm Durumlar",
+      "name": "İsim",
+      "email": "E-posta",
+      "status": "Durum",
+      "joinDate": "Katılım Tarihi",
+      "actions": "İşlemler",
+      "view": "Görüntüle",
+      "approve": "Üyeyi Onayla",
+      "reject": "Üyeyi Reddet",
+      "delete": "Üyeyi Sil",
+      "confirmDelete": "Bu üyeyi silmek istediğinizden emin misiniz?",
+      "backToList": "Üye Listesine Dön",
+      "motivation": "Katılma Motivasyonu",
+      "noMotivation": "Motivasyon belirtilmemiş",
+      "details": "Ek Detaylar",
+      "joinedOn": "Kayıt tarihi",
+      "totalCount": "Toplam: {{count}} üye",
+      "noMembers": "Üye yok",
+      "noResults": "Eşleşen sonuç yok",
+      "empty": "Henüz üye yok",
+      "previous": "Önceki",
+      "next": "Sonraki",
+      "pagination": "Sayfa {{current}} / {{total}}",
+      "clearFilters": "Filtreleri Temizle",
+      "loadError": "Üyeler yüklenirken hata",
+      "retry": "Tekrar Dene",
+      "approved": "Üye başarıyla onaylandı",
+      "rejected": "Üye başarıyla reddedildi",
+      "deleted": "Üye başarıyla silindi",
+      "updateError": "Üye durumu güncellenirken hata oluştu",
+      "deleteError": "Üye silinirken hata oluştu",
+      "backToDashboard": "Kontrol Paneline Dön",
+      "status": {
+        "pending": "Beklemede",
+        "approved": "Onaylandı",
+        "rejected": "Reddedildi"
+      }
+    },
+    "events": {
+      "title": "Başlık",
+      "date": "Tarih",
+      "location": "Konum",
+      "participants": "Katılımcılar",
+      "actions": "İşlemler"
+    },
+    "view": "Görüntüle",
+    "edit": "Düzenle",
+    "viewAll": "Tümünü Görüntüle"
+  },
+  "sidebar": {
+    "dashboard": "Kontrol Paneli",
+    "programs": "Programlar",
+    "projects": "Projeler",
+    "events": "Etkinlikler",
+    "users": "Kullanıcılar",
+    "messages": "Mesajlar",
+    "settings": "Ayarlar",
+    "general": "Genel",
+    "appearance": "Görünüm",
+    "logout": "Çıkış",
+    "toggle": "Kenar Çubuğunu Aç/Kapat"
+  },
+  "error": {
+    "title": "Üzgünüz, bir hata oluştu",
+    "description": "Bu rahatsızlık için özür dileriz. Teknik ekibimiz bu sorunu çözmek için çalışıyor.",
+    "errorId": "Hata Kimliği",
+    "technicalDetails": "Teknik Detaylar",
+    "retry": "Tekrar Dene",
+    "goHome": "Ana Sayfaya Git",
+    "report": "Hatayı Bildir",
+    "support": "Sorun devam ederse, lütfen teknik destek ekibimizle iletişime geçin"
+  },
+  "notFound": {
+    "message": "Sayfa bulunamadı",
+    "backHome": "Ana Sayfaya Dön"
+  }
+}

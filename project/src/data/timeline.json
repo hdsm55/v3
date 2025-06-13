@@ -1,0 +1,82 @@
+{
+  "events": [
+    {
+      "year": 2018,
+      "title": {
+        "en": "Foundation",
+        "ar": "التأسيس",
+        "tr": "Kuruluş"
+      },
+      "description": {
+        "en": "Global Youth Organization was established with a vision to empower youth worldwide",
+        "ar": "تأسست منظمة الشباب العالمية برؤية لتمكين الشباب في جميع أنحاء العالم",
+        "tr": "Global Youth Organization, dünya çapında gençleri güçlendirme vizyonuyla kuruldu"
+      }
+    },
+    {
+      "year": 2019,
+      "title": {
+        "en": "First Project Launch",
+        "ar": "إطلاق المشروع الأول",
+        "tr": "İlk Proje Lansmanı"
+      },
+      "description": {
+        "en": "Successfully launched our first youth leadership program across 5 countries",
+        "ar": "إطلاق برنامج القيادة الشبابية الأول بنجاح في 5 دول",
+        "tr": "İlk gençlik liderlik programımızı 5 ülkede başarıyla başlattık"
+      }
+    },
+    {
+      "year": 2020,
+      "title": {
+        "en": "Digital Transformation",
+        "ar": "التحول الرقمي",
+        "tr": "Dijital Dönüşüm"
+      },
+      "description": {
+        "en": "Adapted to global challenges by launching virtual programs and online initiatives",
+        "ar": "التكيف مع التحديات العالمية من خلال إطلاق البرامج الافتراضية والمبادرات عبر الإنترنت",
+        "tr": "Sanal programlar ve çevrimiçi girişimler başlatarak küresel zorluklara uyum sağladık"
+      }
+    },
+    {
+      "year": 2021,
+      "title": {
+        "en": "Global Recognition",
+        "ar": "الاعتراف العالمي",
+        "tr": "Küresel Tanınma"
+      },
+      "description": {
+        "en": "Received international awards for youth empowerment initiatives",
+        "ar": "حصلت على جوائز دولية لمبادرات تمكين الشباب",
+        "tr": "Gençlik güçlendirme girişimleri için uluslararası ödüller aldık"
+      }
+    },
+    {
+      "year": 2022,
+      "title": {
+        "en": "Expansion Milestone",
+        "ar": "معلم التوسع",
+        "tr": "Genişleme Dönüm Noktası"
+      },
+      "description": {
+        "en": "Reached 10,000 youth across 45 countries through various programs",
+        "ar": "الوصول إلى 10,000 شاب في 45 دولة من خلال برامج مختلفة",
+        "tr": "Çeşitli programlar aracılığıyla 45 ülkede 10.000 gence ulaştık"
+      }
+    },
+    {
+      "year": 2023,
+      "title": {
+        "en": "Future Vision",
+        "ar": "رؤية المستقبل",
+        "tr": "Gelecek Vizyonu"
+      },
+      "description": {
+        "en": "Launched strategic plan for sustainable youth development initiatives",
+        "ar": "إطلاق الخطة الاستراتيجية لمبادرات التنمية الشبابية المستدامة",
+        "tr": "Sürdürülebilir gençlik gelişimi girişimleri için stratejik plan başlattık"
+      }
+    }
+  ]
+}

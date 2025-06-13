@@ -1,0 +1,426 @@
+{
+  "navbar": {
+    "home": "Home",
+    "programs": "Programs",
+    "projects": "Projects",
+    "events": "Events",
+    "volunteer": "Volunteer",
+    "contact": "Contact",
+    "login": "Login",
+    "logout": "Logout",
+    "profile": "Profile",
+    "admin": "Admin Dashboard",
+    "lang_ar": "العربية",
+    "lang_en": "English",
+    "select_language": "Select language",
+    "close_menu": "Close menu",
+    "open_menu": "Open menu",
+    "mobile_menu": "Mobile menu"
+  },
+  "hero": {
+    "title": "Empowering Youth Globally",
+    "subtitle": "Building bridges across cultures, fostering leadership, and creating positive change",
+    "button": "Join Us",
+    "organization": "Global Youth Organization",
+    "watchVideo": "Watch Video",
+    "scrollDown": "Scroll Down",
+    "learnMore": "Learn More"
+  },
+  "programs": {
+    "heading": "Our Programs",
+    "subheading": "Discover our featured programs making a real impact",
+    "title": "Programs",
+    "subtitle": "Explore our initiatives empowering youth worldwide",
+    "viewAll": "View All Programs",
+    "learnMore": "Learn More",
+    "view_details": "View Details",
+    "no_results": "No programs found",
+    "try_different": "Try different search criteria or filters",
+    "clear_filters": "Clear Filters",
+    "search": "Search programs...",
+    "filter_category": "Filter by category",
+    "filter_status": "Filter by status",
+    "progress": "Progress",
+    "leadership": {
+      "title": "Youth Leadership",
+      "description": "Developing the next generation of community leaders through mentorship and hands-on experience"
+    },
+    "education": {
+      "title": "Education Access",
+      "description": "Providing educational resources and opportunities to underserved communities"
+    },
+    "community": {
+      "title": "Community Building",
+      "description": "Strengthening local communities through youth-led initiatives and projects"
+    },
+    "categories": {
+      "all": "All Categories",
+      "education": "Education",
+      "health": "Health",
+      "environment": "Environment",
+      "community": "Community"
+    },
+    "statuses": {
+      "all": "All Statuses",
+      "active": "Active",
+      "completed": "Completed",
+      "upcoming": "Upcoming"
+    }
+  },
+  "projects": {
+    "heading": "Our Projects",
+    "subheading": "Discover our initiatives making a difference in communities",
+    "title": "Projects",
+    "subtitle": "Explore our various initiatives and their impact",
+    "viewAll": "View All Projects",
+    "learnMore": "Learn More",
+    "view_details": "View Details",
+    "no_results": "No projects found",
+    "try_different": "Try different search criteria or filters",
+    "clear": "Clear Filters",
+    "search_placeholder": "Search projects...",
+    "category": "Category",
+    "status": "Status",
+    "categories": {
+      "all": "All Categories",
+      "education": "Education",
+      "health": "Health",
+      "environment": "Environment",
+      "technology": "Technology",
+      "community": "Community"
+    },
+    "statuses": {
+      "all": "All Statuses",
+      "active": "Active",
+      "completed": "Completed",
+      "planning": "Planning"
+    }
+  },
+  "events": {
+    "title": "Events",
+    "subtitle": "Join our global events and make a difference",
+    "register": "Register Now",
+    "free": "Free",
+    "participants": "participants",
+    "days_remaining": "days left",
+    "search": "Search events...",
+    "grid": "Grid View",
+    "calendar": "Calendar View",
+    "clear_filters": "Clear Filters",
+    "no_results": "No events found",
+    "try_different": "Try different search criteria or filters",
+    "calendar_title": "Upcoming Events Calendar",
+    "calendar_subtitle": "Plan your participation in our upcoming events",
+    "featured": "Featured",
+    "register_for": "Register for",
+    "form": {
+      "name": "Full Name",
+      "name_placeholder": "Enter your full name",
+      "email": "Email Address",
+      "email_placeholder": "your@email.com",
+      "phone": "Phone Number",
+      "phone_placeholder": "+1 (123) 456-7890",
+      "experience": "Your Experience in this Field",
+      "experience_placeholder": "Tell us about your relevant experience...",
+      "motivation": "Why do you want to participate?",
+      "motivation_placeholder": "What motivates you to join this event?"
+    },
+    "submitting": "Submitting...",
+    "confirm_registration": "Confirm Registration",
+    "registration_fee": "Registration Fee",
+    "payment_note": "Payment will be collected at the event",
+    "registration_success": "Registration Successful",
+    "registration_success_title": "You're Registered!",
+    "registration_success_message": "Thank you for registering. We've sent a confirmation email with all the details.",
+    "categories": {
+      "all": "All Categories",
+      "workshop": "Workshop",
+      "conference": "Conference",
+      "seminar": "Seminar",
+      "training": "Training",
+      "social": "Social"
+    }
+  },
+  "values": {
+    "heading": "Our Core Values",
+    "subheading": "The principles that guide everything we do",
+    "compassion": {
+      "title": "Compassion",
+      "description": "We believe in the importance of empathy and understanding in building strong human relationships."
+    },
+    "sustainability": {
+      "title": "Sustainability",
+      "description": "We are committed to developing sustainable solutions that preserve our resources for future generations."
+    },
+    "excellence": {
+      "title": "Excellence",
+      "description": "We always strive for excellence in all our work and initiatives."
+    },
+    "community": {
+      "title": "Community",
+      "description": "We build strong and connected communities based on mutual respect and support."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you",
+    "info": {
+      "title": "Contact Information",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "address.details": "123 Main Street, City, Country"
+    },
+    "hours": {
+      "title": "Business Hours",
+      "weekdays": "Monday - Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "How can we help you?",
+      "message": "Message",
+      "messagePlaceholder": "Your message...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": {
+        "title": "Message Sent!",
+        "message": "Thank you for contacting us. We will get back to you soon."
+      },
+      "errors": {
+        "name": "Name is required",
+        "email": "Email is required",
+        "emailInvalid": "Email is invalid",
+        "message": "Message is required",
+        "general": "An error occurred. Please try again later."
+      }
+    }
+  },
+  "donate": {
+    "title": "Support Our Mission",
+    "subtitle": "Your contribution helps empower youth globally",
+    "select_amount": "Select Amount",
+    "custom_amount": "Custom Amount",
+    "frequency": "Donation Frequency",
+    "one_time": "One-time",
+    "monthly": "Monthly",
+    "submit": "Donate Now",
+    "processing": "Processing...",
+    "secure_payment": "Secure payment powered by Stripe",
+    "tax_deductible": "All donations are tax-deductible to the extent allowed by law.",
+    "form": {
+      "title": "Make a Donation",
+      "name": "Full Name",
+      "name_placeholder": "Enter your full name",
+      "email": "Email Address",
+      "email_placeholder": "your@email.com",
+      "message": "Message (Optional)",
+      "message_placeholder": "Tell us why you're supporting our cause..."
+    },
+    "success": {
+      "title": "Thank You for Your Donation!",
+      "message": "Your contribution will help us continue our mission of empowering youth worldwide."
+    },
+    "errors": {
+      "amount": "Please select or enter a valid amount",
+      "name": "Name is required",
+      "email": "Email is required",
+      "emailInvalid": "Email is invalid",
+      "general": "An error occurred. Please try again later."
+    },
+    "impact": {
+      "title": "Your Impact",
+      "education": {
+        "title": "Education",
+        "description": "Support educational programs and workshops for underprivileged youth"
+      },
+      "mentorship": {
+        "title": "Mentorship",
+        "description": "Help provide mentorship opportunities for young leaders"
+      },
+      "resources": {
+        "title": "Resources",
+        "description": "Fund essential resources and tools for youth development"
+      }
+    },
+    "transparency": {
+      "title": "Transparency",
+      "description": "We are committed to transparency in how we use your donations. Regular reports and updates are provided to our donors.",
+      "thank_you": "Thank you for your support!"
+    }
+  },
+  "volunteer": {
+    "title": "Volunteer With Us",
+    "subtitle": "Join our global community of volunteers making a difference",
+    "form": {
+      "title": "Volunteer Application",
+      "name": "Full Name",
+      "name_placeholder": "Enter your full name",
+      "email": "Email Address",
+      "email_placeholder": "your@email.com",
+      "phone": "Phone Number",
+      "phone_placeholder": "+1 (123) 456-7890",
+      "interests": "Areas of Interest",
+      "availability": "Availability",
+      "select_availability": "Select your availability",
+      "weekdays": "Weekdays",
+      "weekends": "Weekends",
+      "flexible": "Flexible",
+      "experience": "Relevant Experience",
+      "experience_placeholder": "Tell us about your relevant experience...",
+      "message": "Why do you want to volunteer?",
+      "message_placeholder": "Tell us why you want to volunteer with us...",
+      "resume": "Resume/CV (Optional)",
+      "resume_placeholder": "Click to upload your resume",
+      "resume_help": "PDF, DOC, or DOCX file up to 5MB",
+      "submit": "Submit Application",
+      "submitting": "Submitting..."
+    },
+    "opportunities": {
+      "title": "Volunteer Opportunities",
+      "community": "Community Service",
+      "community_desc": "Help organize and participate in local community service projects",
+      "mentorship": "Mentorship",
+      "mentorship_desc": "Guide and support youth in their personal and professional development",
+      "global": "Global Initiatives",
+      "global_desc": "Contribute to international youth empowerment programs",
+      "flexible": "Flexible"
+    },
+    "requirements": {
+      "title": "Requirements",
+      "age": "Must be 18 years or older",
+      "commitment": "Minimum 3-month commitment",
+      "language": "Proficiency in English",
+      "training": "Attend required training sessions"
+    },
+    "contact": {
+      "title": "Contact Information"
+    },
+    "note": "All volunteer applications are reviewed within 5-7 business days. We'll contact you to discuss the next steps.",
+    "success": {
+      "title": "Application Submitted!",
+      "message": "Thank you for your interest in volunteering with us. We'll review your application and contact you soon."
+    },
+    "errors": {
+      "name": "Name is required",
+      "email": "Email is required",
+      "emailInvalid": "Email is invalid",
+      "phone": "Phone number is required",
+      "interests": "Please select at least one area of interest",
+      "availability": "Please select your availability",
+      "message": "Please tell us why you want to volunteer",
+      "general": "An error occurred. Please try again later."
+    },
+    "commitment": "Time Commitment"
+  },
+  "cta": {
+    "headline": "Join Our Mission",
+    "subheadline": "Be part of positive change",
+    "button": "Get Involved",
+    "buttons": {
+      "join": "Join Us",
+      "contact": "Contact Us",
+      "donate": "Donate Now",
+      "learn": "Learn More"
+    }
+  },
+  "footer": {
+    "about": "About Us",
+    "programs": "Programs",
+    "projects": "Projects",
+    "events": "Events",
+    "blog": "Blog",
+    "reports": "Reports",
+    "contact": "Contact Us",
+    "faq": "FAQ",
+    "volunteer": "Volunteer",
+    "join": "Join Us",
+    "donate": "Donate",
+    "partners": "Partners",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "press": "Press",
+    "about_us": "About Us",
+    "get_involved": "Get Involved",
+    "copy": "All rights reserved.",
+    "lang_ar": "العربية",
+    "lang_en": "English"
+  },
+  "newsletter": {
+    "heading": "Subscribe to Our Newsletter",
+    "subheading": "Get the latest updates and resources",
+    "placeholder": "Enter your email address",
+    "button": "Subscribe",
+    "privacy": "We respect your privacy and will never spam you."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try Again",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "success": "Success!",
+    "followUs": "Follow Us",
+    "back_to_top": "Back to top"
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Dashboard",
+      "welcome": "Welcome to the admin dashboard",
+      "totalUsers": "Total Users",
+      "activeProjects": "Active Projects",
+      "events": "Events",
+      "pendingRegistrations": "Pending Registrations",
+      "visitorStats": "Visitor Statistics",
+      "projectCategories": "Project Categories",
+      "visitors": "Visitors",
+      "projects": "Projects",
+      "recentUsers": "Recent Users",
+      "upcomingEvents": "Upcoming Events"
+    },
+    "users": {
+      "name": "Name",
+      "email": "Email",
+      "role": "Role",
+      "joinDate": "Join Date",
+      "actions": "Actions"
+    },
+    "events": {
+      "title": "Title",
+      "date": "Date",
+      "location": "Location",
+      "participants": "Participants",
+      "actions": "Actions"
+    },
+    "view": "View",
+    "edit": "Edit",
+    "viewAll": "View All"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "programs": "Programs",
+    "projects": "Projects",
+    "events": "Events",
+    "users": "Users",
+    "messages": "Messages",
+    "settings": "Settings",
+    "general": "General",
+    "appearance": "Appearance",
+    "logout": "Logout",
+    "toggle": "Toggle Sidebar"
+  }
+}

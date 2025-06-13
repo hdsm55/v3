@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "id": "yla-2024",
+      "title": {
+        "en": "Youth Leadership Academy",
+        "ar": "أكاديمية القيادة الشبابية",
+        "tr": "Gençlik Liderlik Akademisi"
+      },
+      "description": {
+        "en": "A comprehensive program developing leadership skills in young people through workshops and mentorship.",
+        "ar": "برنامج شامل لتطوير مهارات القيادة لدى الشباب من خلال ورش العمل والتوجيه.",
+        "tr": "Atölye çalışmaları ve mentorluk yoluyla gençlerde liderlik becerilerini geliştiren kapsamlı bir program."
+      },
+      "category": "education",
+      "status": "active",
+      "image": "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg"
+    },
+    {
+      "id": "chi-2024",
+      "title": {
+        "en": "Community Health Initiative",
+        "ar": "مبادرة الصحة المجتمعية",
+        "tr": "Toplum Sağlığı Girişimi"
+      },
+      "description": {
+        "en": "Empowering youth to lead health education and awareness campaigns in their communities.",
+        "ar": "تمكين الشباب من قيادة حملات التثقيف والتوعية الصحية في مجتمعاتهم.",
+        "tr": "Gençlerin toplumlarında sağlık eğitimi ve farkındalık kampanyalarına öncülük etmesi."
+      },
+      "category": "health",
+      "status": "active",
+      "image": "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg"
+    },
+    {
+      "id": "gsp-2023",
+      "title": {
+        "en": "Green Schools Project",
+        "ar": "مشروع المدارس الخضراء",
+        "tr": "Yeşil Okullar Projesi"
+      },
+      "description": {
+        "en": "Student-led environmental sustainability projects in schools across the region.",
+        "ar": "مشاريع الاستدامة البيئية التي يقودها الطلاب في المدارس في جميع أنحاء المنطقة.",
+        "tr": "Bölge genelindeki okullarda öğrenciler tarafından yönetilen çevresel sürdürülebilirlik projeleri."
+      },
+      "category": "environment",
+      "status": "completed",
+      "image": "https://images.pexels.com/photos/2990644/pexels-photo-2990644.jpeg"
+    },
+    {
+      "id": "dtp-2024",
+      "title": {
+        "en": "Digital Training Program",
+        "ar": "برنامج التدريب الرقمي",
+        "tr": "Dijital Eğitim Programı"
+      },
+      "description": {
+        "en": "Teaching essential digital skills to underprivileged youth for better career opportunities.",
+        "ar": "تعليم المهارات الرقمية الأساسية للشباب المحرومين لفرص وظيفية أفضل.",
+        "tr": "Dezavantajlı gençlere daha iyi kariyer fırsatları için temel dijital becerilerin öğretilmesi."
+      },
+      "category": "education",
+      "status": "active",
+      "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg"
+    },
+    {
+      "id": "mhp-2024",
+      "title": {
+        "en": "Mental Health Program",
+        "ar": "برنامج الصحة النفسية",
+        "tr": "Ruh Sağlığı Programı"
+      },
+      "description": {
+        "en": "Supporting youth mental health through peer counseling and professional guidance.",
+        "ar": "دعم الصحة النفسية للشباب من خلال الإرشاد والتوجيه المهني.",
+        "tr": "Akran danışmanlığı ve profesyonel rehberlik yoluyla gençlerin ruh sağlığını destekleme."
+      },
+      "category": "health",
+      "status": "active",
+      "image": "https://images.pexels.com/photos/7176026/pexels-photo-7176026.jpeg"
+    },
+    {
+      "id": "rec-2023",
+      "title": {
+        "en": "Recycling Education Campaign",
+        "ar": "حملة التوعية بإعادة التدوير",
+        "tr": "Geri Dönüşüm Eğitim Kampanyası"
+      },
+      "description": {
+        "en": "Youth-led initiative to promote recycling awareness and sustainable practices.",
+        "ar": "مبادرة يقودها الشباب لتعزيز الوعي بإعادة التدوير والممارسات المستدامة.",
+        "tr": "Geri dönüşüm farkındalığını ve sürdürülebilir uygulamaları teşvik eden gençlik öncülüğündeki girişim."
+      },
+      "category": "environment",
+      "status": "completed",
+      "image": "https://images.pexels.com/photos/802221/pexels-photo-802221.jpeg"
+    }
+  ]
+}

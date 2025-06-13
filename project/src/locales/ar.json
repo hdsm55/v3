@@ -1,0 +1,66 @@
+{
+  "projects": {
+    "learnMore": "اعرف المزيد",
+    "heading": "مشاريعنا",
+    "subheading": "اكتشف مشاريعنا المتنوعة التي تهدف إلى تطوير المجتمع",
+    "title": "عنوان المشروع",
+    "description": "وصف المشروع",
+    "category": "الفئة",
+    "status": "الحالة",
+    "image": "صورة المشروع",
+    "addNew": "إضافة مشروع جديد",
+    "addDescription": "أضف مشروعاً جديداً إلى المنصة",
+    "titleAr": "العنوان بالعربية",
+    "titleEn": "العنوان بالإنجليزية",
+    "titleTr": "العنوان بالتركية",
+    "descriptionAr": "الوصف بالعربية",
+    "descriptionEn": "الوصف بالإنجليزية",
+    "descriptionTr": "الوصف بالتركية",
+    "selectCategory": "اختر الفئة",
+    "categories": {
+      "education": "التعليم",
+      "health": "الصحة",
+      "environment": "البيئة",
+      "technology": "التكنولوجيا"
+    },
+    "statuses": {
+      "draft": "مسودة",
+      "published": "منشور"
+    },
+    "addSuccess": "تم إضافة المشروع بنجاح"
+  },
+  "cta": {
+    "buttons": {
+      "contact": "تواصل معنا",
+      "projects": "مشاريعنا",
+      "join": "انضم إلينا",
+      "donate": "تبرع الآن",
+      "learn": "اعرف المزيد"
+    },
+    "headline": "انضم إلى مهمتنا",
+    "subheadline": "كن جزءاً من التغيير الإيجابي",
+    "button": "شارك معنا"
+  },
+  "footer": {
+    "about": "من نحن",
+    "whoWeAre": "نحن",
+    "contact": "اتصل بنا",
+    "join": "انضم إلينا",
+    "projects": "مشاريعنا",
+    "events": "فعالياتنا",
+    "blog": "المدونة",
+    "reports": "التقارير",
+    "privacy": "سياسة الخصوصية",
+    "terms": "الشروط والأحكام",
+    "press": "الصحافة",
+    "partners": "الشركاء",
+    "donate": "تبرع",
+    "volunteer": "تطوع",
+    "faq": "الأسئلة الشائعة"
+  },
+  "common": {
+    "error": "حدث خطأ",
+    "saving": "جاري الحفظ...",
+    "save": "حفظ"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "kind": "collectionType",
+  "collectionName": "projects",
+  "info": {
+    "singularName": t("project"),
+    "pluralName": t("projects"),
+    "displayName": t("Project"),
+    "description": t("Projects collection for the organization")
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "unique": true,
+      "minLength": 1
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "cover": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}
+
+// Translations object for copy-pasting into locales:
+const translations = {
+  "project": "project",
+  "projects": "projects",
+  "Project": "Project",
+  "Projects collection for the organization": "Projects collection for the organization"
+};

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https://*.supabase.co; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.supabase.co; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://images.pexels.com https://*.supabase.co; connect-src 'self' https://*.supabase.co wss://*.supabase.co; worker-src 'self' blob:; frame-src 'self' https://*.supabase.co; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests;">
+    <title>Global Youth Organization</title>
+
+    <!-- Preload critical assets -->
+    <link rel="preload" href="/Shababuna-Logo-1.1.svg.svg" as="image" type="image/svg+xml">
+
+    <!-- Preload critical fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Preload critical data -->
+    <link rel="preload" href="/src/i18n/locales/en.json" as="fetch" crossorigin="anonymous">
+    <link rel="preload" href="/src/data/projects.json" as="fetch" crossorigin="anonymous">
+
+    <!-- DNS prefetch for external resources -->
+    <link rel="dns-prefetch" href="https://images.pexels.com">
+
+    <!-- External styles -->
+    <link rel="stylesheet" href="/src/styles/main.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

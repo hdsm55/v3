@@ -1,0 +1,61 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": {
+        "en": "Sarah Ahmed",
+        "ar": "سارة أحمد",
+        "tr": "Sarah Ahmed"
+      },
+      "role": {
+        "en": "Youth Leader",
+        "ar": "قائدة شبابية",
+        "tr": "Genç Lider"
+      },
+      "quote": {
+        "en": "Being part of this organization has transformed my perspective on leadership and community service.",
+        "ar": "كوني جزءاً من هذه المنظمة غير نظرتي للقيادة والخدمة المجتمعية.",
+        "tr": "Bu organizasyonun bir parçası olmak, liderlik ve toplum hizmeti konusundaki bakış açımı değiştirdi."
+      },
+      "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg"
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "Mohammed Al-Rashid",
+        "ar": "محمد الراشد",
+        "tr": "Mohammed Al-Rashid"
+      },
+      "role": {
+        "en": "Program Participant",
+        "ar": "مشارك في البرنامج",
+        "tr": "Program Katılımcısı"
+      },
+      "quote": {
+        "en": "The mentorship and guidance I received helped me discover my true potential.",
+        "ar": "التوجيه والإرشاد الذي تلقيته ساعدني في اكتشاف إمكاناتي الحقيقية.",
+        "tr": "Aldığım mentorluk ve rehberlik, gerçek potansiyelimi keşfetmeme yardımcı oldu."
+      },
+      "image": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg"
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "Ayşe Yılmaz",
+        "ar": "عائشة يلماز",
+        "tr": "Ayşe Yılmaz"
+      },
+      "role": {
+        "en": "Community Ambassador",
+        "ar": "سفيرة المجتمع",
+        "tr": "Toplum Elçisi"
+      },
+      "quote": {
+        "en": "This platform empowers young voices and creates meaningful connections across cultures.",
+        "ar": "تمكن هذه المنصة الأصوات الشابة وتخلق روابط هادفة عبر الثقافات.",
+        "tr": "Bu platform, genç sesleri güçlendiriyor ve kültürler arası anlamlı bağlantılar kuruyor."
+      },
+      "image": "https://images.pexels.com/photos/3767392/pexels-photo-3767392.jpeg"
+    }
+  ]
+}
